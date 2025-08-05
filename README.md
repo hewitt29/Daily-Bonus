@@ -13,7 +13,7 @@
 实现功能
 
 - [x] v2ex （铜币）
-    - 如果使用默认的 Github Action Runner，由于时区不同，定时任务签的是**昨天**
+    - 如果使用默认的 Github Action Runner，由于时区不同，定时任务签的是 **昨天**
 - [x] bilibili 直播（辣条）
 - [x] yamibo 论坛（对象）
 - [x] yurifans 论坛（积分）
@@ -134,3 +134,4 @@ FF14 积分商城使用账号和密码登录
 - [Workflow commands for GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/workflow-commands-for-github-actions)
 - [niuhuan/pica-go](https://github.com/niuhuan/pica-go)
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)
+
